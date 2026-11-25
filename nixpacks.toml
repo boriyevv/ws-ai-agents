@@ -1,0 +1,3 @@
+# Railway (Nixpacks): video agenti uchun ffmpeg o'rnatiladi
+[phases.setup]
+aptPkgs = ["ffmpeg"]

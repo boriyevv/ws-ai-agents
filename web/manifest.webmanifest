@@ -1,0 +1,13 @@
+{
+  "name": "WS-Tizim",
+  "short_name": "WS-Tizim",
+  "description": "WS-Tizim: Web Street IT Academy boshqaruv paneli (AI yordamchi: Jimi)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0451",
+  "theme_color": "#0b0451",
+  "icons": [
+    { "src": "/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
